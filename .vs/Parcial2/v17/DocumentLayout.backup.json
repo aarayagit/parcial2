@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaraya\\source\\repos\\Parcial2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A24EFE89-33F7-46A9-8F7A-8C9F53C7D793}|Parcial2\\Parcial2.csproj|c:\\users\\aaraya\\source\\repos\\parcial2\\parcial2\\modelos\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24EFE89-33F7-46A9-8F7A-8C9F53C7D793}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\modelos\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24EFE89-33F7-46A9-8F7A-8C9F53C7D793}|Parcial2\\Parcial2.csproj|c:\\users\\aaraya\\source\\repos\\parcial2\\parcial2\\modelos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24EFE89-33F7-46A9-8F7A-8C9F53C7D793}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\modelos\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A24EFE89-33F7-46A9-8F7A-8C9F53C7D793}|Parcial2\\Parcial2.csproj|c:\\users\\aaraya\\source\\repos\\parcial2\\parcial2\\enums\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A24EFE89-33F7-46A9-8F7A-8C9F53C7D793}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\enums\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\aaraya\\source\\repos\\Parcial2\\Parcial2\\Modelos\\Menu.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Modelos\\Menu.cs",
+              "ToolTip": "C:\\Users\\aaraya\\source\\repos\\Parcial2\\Parcial2\\Modelos\\Menu.cs",
+              "RelativeToolTip": "Parcial2\\Modelos\\Menu.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:05:26.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\aaraya\\source\\repos\\Parcial2\\Parcial2\\Modelos\\Sistema.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Modelos\\Sistema.cs",
+              "ToolTip": "C:\\Users\\aaraya\\source\\repos\\Parcial2\\Parcial2\\Modelos\\Sistema.cs",
+              "RelativeToolTip": "Parcial2\\Modelos\\Sistema.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwHEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:17:48.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\aaraya\\source\\repos\\Parcial2\\Parcial2\\Enums\\Categoria.cs",
+              "RelativeDocumentMoniker": "Parcial2\\Enums\\Categoria.cs",
+              "ToolTip": "C:\\Users\\aaraya\\source\\repos\\Parcial2\\Parcial2\\Enums\\Categoria.cs",
+              "RelativeToolTip": "Parcial2\\Enums\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:15:48.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
